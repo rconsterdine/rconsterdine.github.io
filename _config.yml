@@ -1,0 +1,8 @@
+title: Rebecca Consterdine
+description: "History graduate, well intentioned and prone to overthinking.  "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
